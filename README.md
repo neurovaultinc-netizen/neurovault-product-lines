@@ -1,3 +1,2 @@
-# NeuroVault
-
-NeuroVault is a SaaS portfolio built for end users who want systems that think: products that detect patterns, explain signals, and predict what comes next.
+NeuroVault
+A SaaS portfolio of intelligent products built to turn data into decisions.NeuroVault builds systems that detect patterns, interpret signals, surface opportunities, and help users anticipate what comes next.
